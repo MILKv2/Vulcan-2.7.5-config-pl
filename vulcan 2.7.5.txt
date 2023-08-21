@@ -546,7 +546,7 @@ discord-webhook:
     # Whether or not Discord Webhook Alerts should be enabled
     enabled: true
     # Paste the URL to your webhook here. For how to create a webhook, please see https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
-    url: https://discord.com/api/webhooks/1133015577477255188/2tZdE85nGGag0A7fXH3kiw-cJpe7u6pI7qnXTxoaDdysdY9YQEx90oqJ7sIoPZqOkeB0
+    url: 
     # The avatar for the webhook
     avatar: https://i.imgur.com/JPG1Kwk.png
     # Thumbnail for the webhook
@@ -573,7 +573,7 @@ discord-webhook:
   punishments:
     # Same settings and explanations as above
     enabled: true
-    url: https://discord.com/api/webhooks/1133015734935625758/04RCP_U_FsV06zKq27cODjhIrWrOCsdyVy3m6HtEfwjW9SFLIu7fGWqvTXr3x6BN0WnI
+    url: 
     avatar: https://i.imgur.com/JPG1Kwk.png
     thumbnail: http://cravatar.eu/avatar/%name%/64.png
     color-r: 255
